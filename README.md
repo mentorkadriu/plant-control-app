@@ -1,5 +1,9 @@
 # plant-control-app
 
+[Idea](https://dribbble.com/shots/11137133-Plant-Control-App)
+[Demo](https://plant-control-app.netlify.com/)
+
+
 ## Project setup
 ```
 npm install

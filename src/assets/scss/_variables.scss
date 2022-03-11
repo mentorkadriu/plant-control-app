@@ -1,0 +1,19 @@
+// Colors
+
+$gray-light: #ECF0F3;
+$gray-dark: #6E7686;
+
+$bg-primary: $gray-light;
+$text-primary: $gray-dark;
+
+
+// Breakpoint variables
+$max-breakpoint: 414;
+
+// Media query variables
+$wide-screen : "(min-width: #{$max-breakpoint}px)";
+
+@function get-vw($target) {
+  $vw-context: ($max-breakpoint*.01) * 1px;
+  @return ($target/$vw-context) * 1vw;
+}

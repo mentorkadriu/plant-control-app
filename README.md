@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/mentorkadriu/plant-control-app/badge)](https://www.codefactor.io/repository/github/mentorkadriu/plant-control-app)
 # plant-control-app
 
 - [Idea](https://dribbble.com/shots/11137133-Plant-Control-App)
